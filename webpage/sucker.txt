@@ -1,0 +1,3 @@
+qwer;MC;12;visa
+asd;MA;9099;mastercard
+asd;MA;9099;mastercard
